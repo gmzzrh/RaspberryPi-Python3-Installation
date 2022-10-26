@@ -1,4 +1,4 @@
-# Python3-On-RaspberryPi
+# RaspberryPi-Python3-Installation
 
 Python3 on Raspberry Pi
 The terminal opens and in case Python2.7 is installed automatically, the deletion is performed.
